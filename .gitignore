@@ -4,3 +4,6 @@
 .DS_Store
 all.md
 releases/OCPI*.pdf
+/OCPI.iml
+releases/*/.bookmarks.txt
+releases/*/.references.txt
